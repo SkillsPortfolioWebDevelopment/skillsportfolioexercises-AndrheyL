@@ -1,0 +1,10 @@
+.img1 {
+    filter: grayscale(60%);
+}
+.img2{
+    filter: blur(2px);
+}
+
+.img3{
+    filter: invert(100%);
+}
