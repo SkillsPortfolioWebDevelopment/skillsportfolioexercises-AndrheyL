@@ -1,0 +1,103 @@
+﻿* {
+    margin-top:15px;
+    box-sizing: border-box;
+    font-family: 'Comic Sans MS';
+}
+
+nav {
+    background-color: yellow;
+    border-radius: 10px;
+}
+.AudioSampler {
+    font-weight: 700;
+    font-size: 30px;
+    margin: 10px 25px 25px 10px
+}
+
+
+body {
+    height: 20vh;
+    justify-content: center;
+    overflow: hidden;
+    margin: 0;
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center
+}
+
+.btn {
+    font-size: 20px;
+    background-color: aliceblue;
+    border: thick;
+    border-block: 10px;
+    border-radius: 20px;
+    color: #000;
+    margin: 2rem 4rem;
+    padding: 3rem 4rem;
+    font-weight: bold;
+    box-shadow: 0 0 10px;
+}
+
+    .btn:hover {
+        opacity: 0.7;
+        cursor: pointer;
+    }
+/*
+nav {
+    background-color: yellow;
+    border-radius:10px;
+}
+header {
+    text-align: center;
+    
+}
+.AudioSampler{
+    font-weight:700;
+    font-size:30px;
+    margin:10px 25px 25px 10px
+}
+
+.music-class {
+    font-family: 'Comic Sans MS';
+    position: center;
+    text-align: center;
+    border-radius: 15px;
+    border: solid;
+    border-block: 10px;
+    padding-top:80px;
+    width: 300px;
+    height: 100px;
+    background: lightgray;
+    float: left;
+    margin: 0px 20px 10px 90px;
+}
+.music-class:hover{
+    background-color:yellow;
+}*/
+/**{
+    box-sizing:border-box;
+}
+
+body{
+    font-family:'Comic Sans MS';
+    display:flex;
+    flex-direction:column;
+    flex-wrap:wrap;
+    align-items:center;
+    justify-content:center;
+    height:100vh;
+    overflow:hidden;
+    margin:0;
+
+}
+#buttons {
+    font-family: 'Comic Sans MS';
+    text-align:center;
+    border-radius: 15px;
+    width: 300px;
+    height: 200px;
+    background: grey;
+    float: left;
+    margin: 0px 20px 10px 13px;
+}*/
