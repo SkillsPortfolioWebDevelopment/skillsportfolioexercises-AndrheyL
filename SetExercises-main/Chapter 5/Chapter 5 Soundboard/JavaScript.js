@@ -30,23 +30,3 @@ function stop() {
     })
 
 }
-////const sounds = ['AHA', 'BackofNet', 'BangOOO', 'Dan', 'Goal', 'HelloPatri', 'JurassicPark', 'KissMyFace', 'SmellMyCheese']
-
-////sounds.forEach(sound => {
-
-////    const btn = document.createElement('music-class')
-
-////    btn.classList.add('btn')
-////    btn.innerText = sound
-////    btn.addEventListener('click', () => {
-
-
-////        document.getElementById(sound).play()
-
-////    })
-
-////    document.getElementById('music-class').
-
-////        appendChild(btn)
-
-////})
